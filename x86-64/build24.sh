@@ -56,7 +56,6 @@ PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-passwall-zh-cn"
 PACKAGES="$PACKAGES luci-app-openclash"
-PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
 PACKAGES="$PACKAGES luci-i18n-samba4-zh-cn"
 PACKAGES="$PACKAGES luci-app-softethervpn"
@@ -65,8 +64,10 @@ PACKAGES="$PACKAGES luci-app-netdata"
 PACKAGES="$PACKAGES luci-i18n-netdata-zh-cn"
 PACKAGES="$PACKAGES luci-app-unblockneteasemusic"
 PACKAGES="$PACKAGES luci-app-smartdns"
-PACKAGES="$PACKAGES luci-app-ttyd"
-PACKAGES="$PACKAGES luci-app-uhttpd"
+PACKAGES="$PACKAGES luci-i18n-smartdns-zh-cn"
+
+
+
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
 # 静态文件服务器dufs(推荐)
